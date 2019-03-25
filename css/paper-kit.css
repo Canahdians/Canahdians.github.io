@@ -5936,3 +5936,7 @@ textarea.form-control {
   display: flex;
   align-items: flex-start;
 }
+
+.aa-testimonials-body {
+ height: 245px;
+}
